@@ -1,0 +1,8 @@
+{
+  "name": "Remix عالم القصص والمغامرات",
+  "description": "منصة تفاعلية تجمع بين القراءة الممتعة والألعاب التعليمية المشوقة لتعزيز المعرفة والقيم بأسلوب مبتكر ومناسب لجميع الأعمار.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
